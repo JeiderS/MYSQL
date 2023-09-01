@@ -1,7 +1,7 @@
 import mysql.connector
 database = mysql.connector.connect(
     user='root',
-    host= 'localhost',
-    port='3306',
-    password='#Jei123456',
-    database='bd_usuarios')
+    host= 'containers-us-west-155.railway.app',
+    port='5968',
+    password='fhhqJsmVGA3Aj3PY44xY',
+    database='railway')
